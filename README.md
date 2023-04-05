@@ -1,1 +1,1 @@
-##Creating Recommendation Systems using Nearest Neighbors
+## regression task, where we're attempting to price out the value of diamonds, using the following diamond dataset.
